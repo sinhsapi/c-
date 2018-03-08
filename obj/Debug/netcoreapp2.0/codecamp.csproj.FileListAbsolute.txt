@@ -1,0 +1,10 @@
+/Users/nguyenvansinh/Desktop/codecamp/obj/Debug/netcoreapp2.0/codecamp.csproj.CoreCompileInputs.cache
+/Users/nguyenvansinh/Desktop/codecamp/obj/Debug/netcoreapp2.0/codecamp.AssemblyInfoInputs.cache
+/Users/nguyenvansinh/Desktop/codecamp/obj/Debug/netcoreapp2.0/codecamp.AssemblyInfo.cs
+/Users/nguyenvansinh/Desktop/codecamp/bin/Debug/netcoreapp2.0/codecamp.deps.json
+/Users/nguyenvansinh/Desktop/codecamp/bin/Debug/netcoreapp2.0/codecamp.runtimeconfig.json
+/Users/nguyenvansinh/Desktop/codecamp/bin/Debug/netcoreapp2.0/codecamp.runtimeconfig.dev.json
+/Users/nguyenvansinh/Desktop/codecamp/bin/Debug/netcoreapp2.0/codecamp.dll
+/Users/nguyenvansinh/Desktop/codecamp/bin/Debug/netcoreapp2.0/codecamp.pdb
+/Users/nguyenvansinh/Desktop/codecamp/obj/Debug/netcoreapp2.0/codecamp.dll
+/Users/nguyenvansinh/Desktop/codecamp/obj/Debug/netcoreapp2.0/codecamp.pdb
